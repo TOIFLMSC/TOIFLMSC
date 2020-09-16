@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrey Ponomarev 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/andrey_pon51?color=1DA1F2&logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/andrey_pon51?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/andrey_pon51)
 
 ## I'm a Student and Developer!
 
