@@ -1,6 +1,10 @@
 ### Hi there, I'm Andrey Ponomarev 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrey_pon51?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/andrey_pon51)
+</a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/gammaandrey">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
 ## I'm a Student and Developer!
 
@@ -20,7 +24,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][go]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Python" width="26px" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />][python]
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
 [<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][postgresql]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
@@ -33,7 +37,7 @@
 <br />
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Andrey's Github Stats" src="https://github-readme-stats-seven-smoky.vercel.app/api?username=TOIFLMSC&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="Andrey's Github Stats" src="https://github-readme-stats-seven-smoky.vercel.app/api?username=TOIFLMSC&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 
 [twitter]: https://twitter.com/andrey_pon51
