@@ -33,7 +33,7 @@
 <br />
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Andrey's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TOIFLMSC&show_icons=true&hide_border=true" />
+  <img align="left" alt="Andrey's Github Stats" src="https://github-readme-stats-seven-smoky.vercel.app/api?username=TOIFLMSC&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/andrey_pon51
