@@ -8,7 +8,7 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on a Tavern of Games project!
+- 🔭 I’m currently looking for a job or internship!
 - 🌱 I’m currently learning everything, or trying to. 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Deploy Tavern of Games and find job.
