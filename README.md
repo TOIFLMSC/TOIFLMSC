@@ -11,7 +11,7 @@
 - 🔭 I’m currently looking for a job or internship!
 - 🌱 I’m currently learning everything, or trying to. 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Deploy Tavern of Games and find job.
+- 🥅 2021 Goals: Find a job and start getting production experience.
 - ⚡ If you want more: I love team work, runtime errors 🤣 and playing the guitar.
 
 <br />
