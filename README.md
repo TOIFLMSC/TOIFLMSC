@@ -8,7 +8,7 @@ I joined Ozon as an intern in June 2021. Since July 2026, I’ve been a lead on 
 
 [**Zarya**](https://github.com/TOIFLMSC/zarya) is an AI companion I’m building to make talking to a model feel like chatting with someone on Telegram. You can send her a voice note, share a video message, or forward a post and talk it over right there. She remembers details from earlier conversations and can chime in on her own in a group chat.
 
-These days I build a lot of my own tools with a coding agent. Most start with something I want for myself, like automating a repetitive task in Telegram or seeing what’s using memory on my servers.
+I build all sorts of things with AI agents. They help me automate the repetitive parts of my day so I can spend more time building and get more done.
 
 ## Tech stack
 
